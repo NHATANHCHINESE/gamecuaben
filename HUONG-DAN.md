@@ -1,3 +1,7 @@
+# Đang dùng website gamecuaben?
+
+Để sửa âm thanh của website hiện tại, chỉ cần thay file index.html ở thư mục gốc NHATANHCHINESE/gamecuaben. Xem AM-THANH-IPAD.md; không cần tạo repository mới.
+
 # Đưa Vườn nhỏ của bé lên GitHub Pages
 
 Gói này chứa bản hoàn chỉnh 20 chủ đề × 20 tranh, bao gồm Gia đình của bé, lựa chọn Việt–Anh, nhạc/hiệu ứng, bảng vẽ và nút sắp xếp tranh. `index.html` đã chứa sẵn toàn bộ hình ảnh, font, nhạc và các bản ghi có sẵn; không cần thư mục assets hoặc cài thư viện.
@@ -18,7 +22,7 @@ File `index.html` khoảng 19 MiB, thấp hơn giới hạn tải bằng trình 
 
 - Dùng đường dẫn website bằng Safari; trình xem trước HTML trong ứng dụng Tệp có thể không chạy trò chơi.
 - Nhạc và lời đọc bắt đầu sau khi chạm. Có nút VI / EN, nhạc và loa riêng.
-- Lời chào tiếng Việt có sẵn gọi tên Ben. Các từ mới và tiếng Anh dùng giọng đọc phù hợp có trên thiết bị; khả năng đọc ngoại tuyến phụ thuộc giọng đã cài.
+- Lời chào tiếng Việt có sẵn gọi tên Ben. Cả 400 tên tranh đã có bản ghi Việt–Anh kèm sẵn; những câu hướng dẫn khác có thể dùng giọng thiết bị.
 - Thứ tự tranh, lựa chọn và tranh vẽ được lưu trên trình duyệt/thiết bị đang chơi. Chúng không đồng bộ giữa iPad và máy tính hoặc giữa đường dẫn cũ và GitHub Pages.
 - Để sắp xếp tranh: mở chủ đề → nút danh sách nhỏ ở góc trên phải → ↑/↓ → Lưu thứ tự.
 
